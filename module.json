@@ -3,7 +3,7 @@
   "name": "accounting-three-way-matching-api",
   "display_name": "Accounting Three-Way Matching API",
   "description": "Authenticated API for PO, receipt, and bill matching.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\ThreeWayMatchingApi\\ThreeWayMatchingApiServiceProvider",
   "requires": {
